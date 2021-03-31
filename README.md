@@ -3,7 +3,7 @@
 #### Contém um exemplo de integração de React.js com a framework Bootstrap.  
 ## Tecnologias usadas para a criação do Projeto:
 1. React.JS  
-[Primeiros Passos com ReactJS] <https://blog.geekhunter.com.br/um-guia-para-usar-react-js/>  
+[Primeiros Passos com ReactJS](https://blog.geekhunter.com.br/um-guia-para-usar-react-js/)
 3. Bootstrap.
 ### Abaixo a descrição de ambos:
 ## O que é React.js?
